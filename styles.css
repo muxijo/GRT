@@ -1,0 +1,34 @@
+/* add your CSS here */
+.fact{
+  text-indent: 5px;
+  color: green;
+}
+
+.myth{
+	color:red;
+}
+
+ul{
+	list-style-type: none;
+	font-style: italic;
+}
+
+.labels{
+	font-weight: bold;
+}
+
+.bigbox{
+	width: 300px;
+	border: 2px solid red;
+	margin: 5px;
+}
+
+.littlebox{
+	border: 2px solid blue;
+}
+
+body{
+	flex-wrap: wrap;
+	display: flex;
+	width: 310
+}
