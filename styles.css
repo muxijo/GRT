@@ -19,13 +19,11 @@ ul{
 
 .bigbox{
 	width: 300px;
-	border: 2px solid red;
-	margin: 5px;
+	border: 2px solid;
+	padding: 5px;
 }
-
 .littlebox{
-	border: 2px solid blue;
-}
+	border: 2px solid;
 
 body{
 	flex-wrap: wrap;
